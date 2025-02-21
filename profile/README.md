@@ -12,6 +12,6 @@
   </picture>
 </div>
 <div align="center">
-XTsai
+  <font size=16 color=D47557>@xtsai</font>
 </div>
 
