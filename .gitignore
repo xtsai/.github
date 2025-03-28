@@ -20,3 +20,6 @@ _site/
 Gemfile.lock
 
 docs/**/*.md 
+docs/**/*.sql
+docs/**/*.ini
+!docs/wiki/**/*.md
